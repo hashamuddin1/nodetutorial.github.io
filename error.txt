@@ -1,0 +1,5 @@
+require is not defined in ES module scope, you can use import instead
+This file is being treated as an ES module because it has a '.js' file extension and 'C:\Users\dell\Documents\node_tutorial\package.json' contains "type": "module". To treat it as a CommonJS script, rename it to use the '.cjs' file extension.  
+    at file:///C:/Users/dell/Documents/node_tutorial/eventmodule.js:1:22
+
+ISKA MATLAB K ES6 MAY KAM NHI KRTA TW PACKAGE.JSON SAY TYPE:MODULE HATAO
